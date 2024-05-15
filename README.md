@@ -9,7 +9,9 @@ If anyone finds a need for this driver, feel free to open an issue and I'll fini
 ## To run:
 1. Install [docker](https://docs.docker.com/engine/install/)
 
-2. Build:
+2. Clone repo
+
+3. Build:
 ```
 $ docker build -t ps4_driver .
 ```
