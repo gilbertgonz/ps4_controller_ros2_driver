@@ -16,7 +16,7 @@ If anyone finds a need for this driver, feel free to open an issue and I'll fini
 $ docker build -t ps4_driver .
 ```
 
-3. Run:
+4. Run:
 ```
 $ docker run --rm --network=host --ipc=host --priviledged ps4_driver
 ```
